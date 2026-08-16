@@ -11,11 +11,10 @@ Tool for editing Elden Ring save files. Compatible with PC saves, raw Playstatio
 ## Web version
 Runs entirely in your browser via WebAssembly -- nothing is uploaded anywhere, your save file stays local.
 
-- https://mgibson041387.github.io/ER-Save-Editor/
-- https://selfhosted.vip/er-save-editor
+- https://yo-repo87.github.io/ER-Save-Editor/
 
 ## Downloads
-Compiled Windows and Linux builds are available on the [Releases page](https://github.com/mgibson041387/ER-Save-Editor/releases).
+Compiled Windows and Linux builds are available on the [Releases page](https://github.com/yo-repo87/ER-Save-Editor/releases).
 
 ## Features
 - Import characters from other save files
